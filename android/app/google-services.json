@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "399050505906",
+    "project_id": "doltinuku-c3c93",
+    "storage_bucket": "doltinuku-c3c93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399050505906:android:b1a39ed7c75406215fd3ab",
+        "android_client_info": {
+          "package_name": "com.example.doltinuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399050505906-05lhih1srfhskgh468dnraecprkj9g52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doltinuku",
+            "certificate_hash": "c4f09d6a79afc6c996ec61dfcdcba9aa5681db3a"
+          }
+        },
+        {
+          "client_id": "399050505906-ke2iqei6nnqdri93ab2jacfhggls2pfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doltinuku",
+            "certificate_hash": "8aa7687afd134f892846de260443573419a212b2"
+          }
+        },
+        {
+          "client_id": "399050505906-c3ottu97bopvi79vi76jlr49eausi8mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxCCKxQX7f8Vdl4nYv3AHvge2jiNWRkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399050505906-c3ottu97bopvi79vi76jlr49eausi8mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399050505906:android:cf51fda43dd7a45d5fd3ab",
+        "android_client_info": {
+          "package_name": "com.example.doltinukuversi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399050505906-ffjsg39eui7tsd6orh0rau879qn7e9hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doltinukuversi2",
+            "certificate_hash": "c4f09d6a79afc6c996ec61dfcdcba9aa5681db3a"
+          }
+        },
+        {
+          "client_id": "399050505906-c3ottu97bopvi79vi76jlr49eausi8mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxCCKxQX7f8Vdl4nYv3AHvge2jiNWRkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399050505906-c3ottu97bopvi79vi76jlr49eausi8mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
